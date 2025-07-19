@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 ##### Connect with me
-![https://instagram.com/yesa_nofita17](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)![https://www.linkedin.com/in/yesa-nofita-sari-42ab2629a/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://instagram.com/yesa_nofita17](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/yesa-nofita-sari-42ab2629a/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yesaaa1711/yesaaa1711/output/pacman-contribution-graph-dark.svg">
